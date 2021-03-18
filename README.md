@@ -1,5 +1,5 @@
 # VLAN Configuration Lab   
-Full configuration for my VLAN configuration lab. All of the below command are ran in global config mode.   
+Full configuration for my VLAN configuration lab. All of the below command are ran in global config mode. See more at https://www.nicksnetwork.com
 
 ### S1
 ```
